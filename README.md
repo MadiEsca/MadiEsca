@@ -1,6 +1,8 @@
 <div align="center">
 <!-- Painel Animado — Header --> 
-<svg width="100%" height="140" xmlns="http://www.w3.org/2000/svg"> <rect width="100%" height="100%" fill="#000000"/> <text x="50%" y="50%" fill="#8b0000" font-size="40" font-family="monospace" text-anchor="middle"> <tspan id="title1">CyberSecurity / Full-Stack</tspan> </text> <text x="50%" y="75%" fill="#440000" font-size="14" font-family="monospace" text-anchor="middle"> <tspan>PUBLIC DOSSIER — ACCESS LEVEL: PUBLIC</tspan> </text> </svg>
+<svg width="100%" height="140" xmlns="http://www.w3.org/2000/svg"> <rect width="100%" height="100%" fill="#000000"/> <text x="50%" y="50%" fill="#8b0000" font-size="40" font-family="monospace" text-anchor="middle"> <tspan id="title1">CyberSecurity / Full-Stack</tspan> </text> <text x="50%" y="75%" fill="#440000" font-size="14" font-family="monospace" text-anchor="middle"> <tspan>PUBLIC DOSSIER — ACCESS LEVEL: PUBLIC</tspan></text></svg>
+
+
 <!-- Badges Custom --> 
 <p> <img src="https://img.shields.io/badge/Stack-FullStack%20%7C%20RedTeam-8b0000?style=for-the-badge&labelColor=000"> 
 <img src="https://img.shields.io/badge/OS-Arch%20%7C%20Windows-8b0000?style=for-the-badge&labelColor=000"> 
